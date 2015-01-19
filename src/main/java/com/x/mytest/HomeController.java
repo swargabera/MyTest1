@@ -34,10 +34,17 @@ public class HomeController {
 		
 		String formattedDate = dateFormat.format(date);
 
-System.out.println("hi.......");
+System.out.println("hi.......xxxxxxxxxxxxxxxxxx");
 System.out.println("swarga bera ---------------ddddddddddd");
+System.out.println("swarga bera ---------------       876787868");
 
 System.out.println("hi.......111111121212211");
+
+
+
+
+
+
 
 		model.addAttribute("serverTime", formattedDate );
 		
